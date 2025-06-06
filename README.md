@@ -42,16 +42,16 @@
   <img src="globe.gif" alt="En construcción" />
 </p>
 <p align="center">
-  <a href="mailto:tucorreo@gmail.com" target="_blank">
+  <a href="mailto:Juanchibiris80@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tuusuario" target="_blank">
+  <a href="https://github.com/H2kl0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/tuusuario" target="_blank">
+  <a href="https://www.instagram.com/Fk_nandov" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-fernando-velasquez-fernandev-96b583369/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -59,13 +59,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/tuusuario/proyecto1" target="_blank">
-    <img src="https://img.shields.io/badge/Proyecto%201-%2300C4CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/tuusuario/proyecto2" target="_blank">
-    <img src="https://img.shields.io/badge/Proyecto%201-%2300C4CC?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/tuusuario/proyecto3" target="_blank">
+  <a href="https://github.com/H2kl0/Inventory" target="_blank">
     <img src="https://img.shields.io/badge/Proyecto%201-%2300C4CC?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
