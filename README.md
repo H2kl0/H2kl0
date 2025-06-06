@@ -59,7 +59,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/H2kl0/Inventory" target="_blank">
+  <a href="https://github.com/H2kl0/Inventory" target="Inventary">
     <img src="https://img.shields.io/badge/Proyecto%201-%2300C4CC?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
