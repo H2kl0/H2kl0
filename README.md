@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<h1 align="center">🚀 <em>PROYECTOS EN DESARROLLO <img src="hot.gif" height="25"/></em></h1>
+<h1 align="center">🚀 <em>PROYECTS IN WORKING... <img src="hot.gif" height="25"/></em></h1>
 
 
 <p align="center">
