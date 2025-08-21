@@ -91,14 +91,14 @@
 <h1 align="center">📊 My GitHub Stats</h1>
 <div align="center">
     <a href="https://github.com/H2kl0">
-        <img src="https://github-readme-stats.vercel.app/api?username=H2kl0&theme=monokai&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="H2kl0's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=h2kl0&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="H2kl0's GitHub Stats" />
     </a>
     <a href="https://github.com/H2kl0">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H2kl0&theme=monokai&hide_border=true" alt="H2kl0's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=h2kl0&theme=radical&hide_border=true" />
     </a>
     <br/>
     <a href="https://github.com/H2kl0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H2kl0&theme=monokai&show_icons=true&hide_border=true&layout=compact" alt="H2kl0's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2kl0&theme=radical&show_icons=true&hide_border=true&layout=compact" />
     </a>
 </div>
 
